@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This report presents an analysis of a global airline dataset using SQL in PostgreSQL. The dataset was prepared, cleaned, and analyzed to uncover insights about passenger demographics, travel patterns, and flight operations. Key objectives included setting up a database, cleaning data, performing queries to extract meaningful information, and understanding trends. This analysis highlights the operational aspects of the airline industry and identifies areas for improvement, such as punctuality and customer targeting.
+This report presents an analysis of a global airline dataset using PostgreSQL and Microsoft Excel. The dataset was prepared, cleaned, and analyzed to uncover insights about passenger demographics, travel patterns, and flight operations. Key objectives included setting up a database, cleaning data, performing queries to extract meaningful information, and understanding trends. This analysis highlights the operational aspects of the airline industry and identifies areas for improvement, such as punctuality and customer targeting.
 
 ### Data Source
 
